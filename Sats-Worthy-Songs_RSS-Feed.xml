@@ -1,0 +1,108 @@
+<rss version="2.0" endcoding="UTF-8" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md">
+  <channel>
+    <image>
+      <url>https://github.com/aChrisYouKnow/Sats-Worthy-Songs/blob/main/SWS_album_art.jpg?raw=true</url>
+    </image>
+    <description>A collection of playlists containing value for value (V4V) music. Please listen with a modern podcast app (NewPodcastApps.com)</description>
+    <itunes:author>aChrisYouKnow</itunes:author>
+    <item>
+      <title>Sats Worthy Songs - Playlist 001</title>
+      <description><![CDATA[<p>The artists featured in this playlist own their own music, and the value streamed to them goes straight to them, often earning them much more than they would receive from other streaming services who take a large cut.&nbsp;</p>
+<p>&nbsp;</p>
+<p>When listening to this playlist, please listen with an app that supports streaming value back to the artists. An up to date list of compatible apps can be found here:</p>
+<p>&nbsp;</p>
+<p><a href="https://NewPodcastApps.com/apps?appTypes=app&amp;elements=Sat+Streaming">https://NewPodcastApps.com/apps?appTypes=app&amp;elements=Sat+Streaming</a></p>
+<p>&nbsp;</p>
+<p>Filter by your preferred operating system (Android, iOS, Web, etc.)</p>
+<p>&nbsp;</p>
+<p>Set your sats per minute to a value that works for you, and feel free to send additional boosts to songs you really like. You can even send a message to the artists along with your boosts, known as Boostagrams.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Enjoy!</p>]]></description>
+      <guid isPermaLink="false">47d6c9ef-86d3-46e1-b26c-3464cd50f49c</guid>
+      <podcast:chapters url="https://sats-worthy-songs.s3.us-east-005.backblazeb2.com/SWS-Playlist001-Chapters.json" type="application/json"></podcast:chapters>
+      <enclosure url="https://Sats-Worthy-Songs.s3.us-east-005.backblazeb2.com/SWS-Playlist001.mp3" length="101948104" type="audio/mpeg"></enclosure>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="aChrisYouKnow" address="0332d57355d673e217238ce3e4be8491aa6b2a13f95494133ee243e57df1653ace" type="node" customKey="112111100" customValue="bxcuZnumvtKAwK0Sfm8j" split="95"></podcast:valueRecipient>
+        <podcast:valueRecipient split="5" name="Podcastindex.org" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" customKey="" customValue=""></podcast:valueRecipient>
+        <podcast:valueRecipient name="The Split Kit" customKey="696969" customValue="boPNspwDdt7axih5DfKs" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" type="node" split="5" fee="true"></podcast:valueRecipient>
+        <podcast:valueTimeSplit startTime="0.001" remotePercentage="99" duration="273.48">
+          <podcast:remoteItem feedGuid="5bb8f186-2460-54dc-911d-54f642e8adf6" itemGuid="f69cd5a5-2018-411b-afc1-00ab12142e83"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="274" remotePercentage="99" duration="183.216">
+          <podcast:remoteItem feedGuid="b55c93d2-4571-55fd-9562-7966beaa7ea2" itemGuid="729ff127-1fcc-4086-8e67-4386e87ac585"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="456" remotePercentage="99" duration="216.033">
+          <podcast:remoteItem feedGuid="b8b6971e-403e-568f-a4e6-7aa2b45e50d4" itemGuid="72a3b402-8491-4cd9-823e-a621fd81b86f"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="672" remotePercentage="99" duration="212.872">
+          <podcast:remoteItem feedGuid="8d3a94a0-3195-52f4-9bb9-c3f5ea776e1c" itemGuid="661bbac0-b505-4273-8fb6-2a5d6f47dcc4"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="885.5" remotePercentage="99" duration="188.735">
+          <podcast:remoteItem feedGuid="537df90e-0cc4-535b-84d0-dcb3ca87f1f8" itemGuid="7ad63686-68ca-49fb-b5f3-a5426f1e87c9"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="1074.5" remotePercentage="99" duration="230.352">
+          <podcast:remoteItem feedGuid="78ae7a58-679a-50dd-95c0-c8f69e431b78" itemGuid="e1c2e15d-656c-41de-a52c-6771292a7312"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="1300.887" remotePercentage="99" duration="170.762">
+          <podcast:remoteItem feedGuid="6e1b0838-4eff-5dd9-aa16-7b2481d077f9" itemGuid="c0aaeff8-5a26-49cf-8dad-2b6909e4aed1"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="1469.9" remotePercentage="99" duration="258.247">
+          <podcast:remoteItem feedGuid="5ffbb078-b21b-545a-b01e-d3aaa3b3b4c5" itemGuid="92627677-4f5b-4420-85cd-e76b5f9aa7fb"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="1724.124" remotePercentage="99" duration="208.666">
+          <podcast:remoteItem feedGuid="d0d74358-6d3a-5c8a-86e7-9192ca57775e" itemGuid="88614c17-ce82-470b-bee2-4b51a16fb7f9"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="1930.12" remotePercentage="99" duration="200.385">
+          <podcast:remoteItem feedGuid="4ff9d009-df4f-5ac8-9350-220dab1c71b0" itemGuid="243a7aba-9d56-41a6-ae36-ee5bbb5d6089"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="2125.96" remotePercentage="99" duration="133.93">
+          <podcast:remoteItem feedGuid="60e9fcee-0285-5ba9-870f-7e4c381ef846" itemGuid="4554be73-db5e-40b1-aa1f-ff34fe39f1bf"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="2259.766" remotePercentage="99" duration="217.13">
+          <podcast:remoteItem feedGuid="493d99e6-45cb-5519-b095-ef57b52e6c60" itemGuid="1a7797b8-1ff5-46c8-aea0-f4bb9dde1d6a"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="2473" remotePercentage="99" duration="192.967">
+          <podcast:remoteItem feedGuid="68c2dcdc-d955-5a37-8ac1-7a9d18631878" itemGuid="7d5d9cdd-3cb5-4202-a58b-a878d7c6fa04"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="2662.219" remotePercentage="99" duration="354.194">
+          <podcast:remoteItem feedGuid="712c5393-aa44-5c3f-9db6-2a09b2c2fb07" itemGuid="8595ef06-ee89-4d06-9abd-abeed3a098b4"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="3012.28" remotePercentage="99" duration="242.965">
+          <podcast:remoteItem feedGuid="141b86d8-76bc-581a-adf1-2f836a4dde91" itemGuid="612c68ca-d87a-4ed8-9fb0-e1f101ae5dbb"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="3249.44" remotePercentage="99" duration="193.097">
+          <podcast:remoteItem feedGuid="9566a4fb-10a3-5b45-9e6c-bbb7db634dd1" itemGuid="35411b62-649c-43ee-9e5d-82b81bc90d5d"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="3437.32" remotePercentage="99" duration="185.376">
+          <podcast:remoteItem feedGuid="5f073fbd-f8f3-5488-8ab1-701aee7bbeeb" itemGuid="850eced6-44fb-4a49-8e9a-3b6e718f19d0"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="4740.44" remotePercentage="99" duration="209.476">
+          <podcast:remoteItem feedGuid="e2d6766a-5c28-5cbd-b678-4d7595646e4e" itemGuid="7378f545-c17d-412c-a0d5-71bd88065198"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="3826.16" remotePercentage="99" duration="224.078">
+          <podcast:remoteItem feedGuid="103318b1-62bf-5a8f-9a23-d606f85109f7" itemGuid="c0335109-65da-4f7e-a02e-55e8ed1ef19f"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+        <podcast:valueTimeSplit startTime="4046.6" remotePercentage="99" duration="201.038">
+          <podcast:remoteItem feedGuid="25de7384-5134-545b-8069-c67c9523f851" itemGuid="0fff4168-0576-4289-abd9-c37b278df12c"></podcast:remoteItem>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+      <itunes:explicit>no</itunes:explicit>
+      <duration>01:10:47</duration>
+      <pubDate>Sun, 12 Nov 2023 02:50:45 +0000</pubDate>
+      <itunes:author>aChrisYouKnow</itunes:author>
+    </item>
+    <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+      <podcast:valueRecipient name="aChrisYouKnow" address="0332d57355d673e217238ce3e4be8491aa6b2a13f95494133ee243e57df1653ace" type="node" customKey="112111100" customValue="bxcuZnumvtKAwK0Sfm8j" split="90"></podcast:valueRecipient>
+      <podcast:valueRecipient split="5" name="Podcastindex.org" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" customKey="" customValue=""></podcast:valueRecipient>
+      <podcast:valueRecipient split="5" name="Steven Bell (Split Kit / Sovereign Feeds)" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="eChoVKtO1KujpAA5HCoB"></podcast:valueRecipient>
+    </podcast:value>
+    <podcast:medium>podcast</podcast:medium>
+    <podcast:guid>2f79f2f6-d85c-46aa-a2a4-1e969820dc60</podcast:guid>
+    <generator>The Split Kit</generator>
+    <itunes:category text="Music"></itunes:category>
+    <itunes:keywords></itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <title>Sats Worthy Songs</title>
+    <link>https://github.com/aChrisYouKnow/Sats-Worthy-Songs/</link>
+  </channel>
+</rss>

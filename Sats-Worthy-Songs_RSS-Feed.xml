@@ -19,7 +19,7 @@
 <p>&nbsp;</p>
 <p>Enjoy!</p>]]></description>
       <guid isPermaLink="false">47d6c9ef-86d3-46e1-b26c-3464cd50f49c</guid>
-      <podcast:chapters url="https://sats-worthy-songs.s3.us-east-005.backblazeb2.com/SWS-Playlist001-Chapters.json" type="application/json"></podcast:chapters>
+      <podcast:chapters url="https://sats-worthy-songs.s3.us-east-005.backblazeb2.com/SWS-Playlist001-Chapters-2.json" type="application/json"></podcast:chapters>
       <enclosure url="https://Sats-Worthy-Songs.s3.us-east-005.backblazeb2.com/SWS-Playlist001.mp3" length="101948104" type="audio/mpeg"></enclosure>
       <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
         <podcast:valueRecipient name="aChrisYouKnow" address="0332d57355d673e217238ce3e4be8491aa6b2a13f95494133ee243e57df1653ace" type="node" customKey="112111100" customValue="bxcuZnumvtKAwK0Sfm8j" split="95"></podcast:valueRecipient>

@@ -4,7 +4,7 @@ Home of the RSS feed of the Sats Worthy Songs podcast. A collection of playlists
 Feel free to suggest changes to the RSS feed and documentation via pull requests.
 
 # To Do items
-- [ ] The end goal is throughout the entire episode, for 95% of the sats to go to the artists, with the rest getting spread to some of the tools making this happen. Currently there are too many situations where the boosts are going to the show and not the artists. This needs a solution.
+- [ ] The end goal is throughout the entire episode, for 95% of the sats to go to the artists, with the rest getting spread to some of the tools making this happen. Currently there are too many situations where the boosts are going to me and not the artists. This needs a solution.
 - [ ] Include links for Sats Worthy Songs to open directly in various podcast players (want to avoid this just leading listeners listening through the link without connecting a wallet)
 - [ ] Include guides for listeners on how to get wallets setup.
 

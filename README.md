@@ -3,6 +3,10 @@ Home of the RSS feed of the Sats Worthy Songs podcast. A collection of playlists
 
 Feel free to suggest changes to the RSS feed and documentation via pull requests.
 
+# Tutorials
+[How to Listen via Podcast Guru](Tutorials/Podcast-Guru.md)
+
+
 # To Do items
 - [ ] Include links for Sats Worthy Songs to open directly in various podcast players (want to avoid this just leading to listening without connecting a wallet and supporting the independant artists)
 - [ ] Create a guide for picking a default streaming amount and a default Boost amount

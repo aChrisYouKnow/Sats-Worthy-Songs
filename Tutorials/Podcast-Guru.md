@@ -33,7 +33,7 @@
 <img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru11.jpeg" alt="Screenshot 1" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru12.jpeg" alt="Screenshot 1" width="300">
 
 16. Click the menu button to see the show notes, the chapters list, and the list of V4V splits
-17. In the chapters list, you can click any song and go directly to it. Useful for skipping past a song you're not as into, or for getting to a song you really like quickly.
+17. In the chapters list, you can click any song and go directly to it. Useful for skipping past a song you're not as into, or for getting to a song you really like quickly
 
 <img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru13.jpeg" alt="Screenshot 1" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru14.jpeg" alt="Screenshot 1" width="300">
 

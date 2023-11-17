@@ -45,7 +45,7 @@
 
 <img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru10.jpeg" alt="Screenshot 1" width="300">
 
-12. Click the lightning symbol
+12. Click the lightning symbol (Note: this button won't be present if the artist or podcast has not included the value tag in their RSS feed to enable streaming payments)
 
 <img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru11.jpeg" alt="Screenshot 1" width="300"> 
 

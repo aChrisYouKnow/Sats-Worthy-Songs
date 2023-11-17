@@ -9,6 +9,7 @@ Feel free to suggest changes to the RSS feed and documentation via pull requests
 
 # To Do items
 - [ ] Include links for Sats Worthy Songs to open directly in various podcast players (want to avoid this just leading to listening without connecting a wallet and supporting the independant artists)
+- [ ] Include a list list of links for an intro to Value 4 Value
 - [ ] Create a guide for picking a default streaming amount and a default Boost amount
 - [ ] Create a tutorial for Podverse
 - [ ] Create a tutorial for Fountain

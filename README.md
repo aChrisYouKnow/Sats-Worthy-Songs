@@ -8,7 +8,6 @@ Feel free to suggest changes to the RSS feed and documentation via pull requests
 
 
 # To Do items
-- [ ] Fix the tutorial so it looks better on mobile
 - [ ] Include links for Sats Worthy Songs to open directly in various podcast players (want to avoid this just leading to listening without connecting a wallet and supporting the independant artists)
 - [ ] Create a guide for picking a default streaming amount and a default Boost amount
 - [ ] Create a tutorial for Podverse

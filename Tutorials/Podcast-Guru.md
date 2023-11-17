@@ -1,6 +1,4 @@
-# Not Finished Yet. Saving work in progress
-
-How to listen to Sats Worhy Songs with Podcast Guru
+# How to listen to Sats Worhy Songs with Podcast Guru
 
 1. Download Podcaast Guru for either iOS or Android here: https://podcastguru.io
 

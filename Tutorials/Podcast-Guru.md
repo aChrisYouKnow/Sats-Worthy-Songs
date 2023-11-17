@@ -9,7 +9,7 @@
 
 <img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru03.jpeg" alt="Screenshot 1" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru04.jpeg" alt="Screenshot 1" width="300">
 
-3. You can either log in to connect if you already have an Ablby wallet, or sign up to create one
+3. You can either log in to connect if you already have an Alby wallet, or sign up to create one
 4. If you've added a password to your account, click login with password
 
 <img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru05.jpeg" alt="Screenshot 1" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru06.jpeg" alt="Screenshot 1" width="300">

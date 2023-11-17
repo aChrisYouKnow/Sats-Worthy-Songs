@@ -15,7 +15,7 @@
 <img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru05.jpeg" alt="Screenshot 1" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru06.jpeg" alt="Screenshot 1" width="300">
 
 6. After connecting,  click Value 4 Value configuration
-7. Enter a name. You can use any name, and change it at any time. For the artists, its more satisifying to see lots of different people streaming value instead of everyone keeping 'Ananymous' for their name
+7. Enter a name. You can use any name, and change it at any time. For the artists, its more satisifying to see lots of different people streaming value instead of everyone keeping 'Anonymous' for their name
 8. The other fields dictate the rate per minute that will go to the artists or podcast hosts while you're listening. You can have different values for each podcst / artist, but these are the defaults
    For help deciding what values to go with, see:
 

@@ -77,7 +77,7 @@
 
 <img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru17.jpeg" alt="Screenshot 1" width="300">
 
-20. Here you can choose whether or not you get notified of new episodes, if new episodes auto-download, if you want to use a different boost amount or stream rate here instead of your default values, and if you want sats streaming to start by default without turning it on each time.
+20. Here you can choose whether or not you get notified of new episodes, if new episodes auto-download, if you want to use a different boost amount or stream rate here instead of your default values, and if you want sats streaming to start by default without turning it on each time. I would recommend turning on 'Stream sats when playing' so you don't have to manually turn it on each time. 
 
-<img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru18.jpeg" alt="Screenshot 1" width="300">
+<img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru185.jpeg" alt="Screenshot 1" width="300">
 

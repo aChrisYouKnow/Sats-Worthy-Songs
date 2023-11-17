@@ -1,6 +1,6 @@
 # How to listen to Sats Worthy Songs with Podcast Guru
 
-1. Download Podcaast Guru for either iOS or Android here: https://podcastguru.io
+1. Download Podcast Guru for either iOS or Android here: https://podcastguru.io
 
 <img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru01.jpeg" alt="Screenshot 1" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/Tutorials/Screenshots/Podcast-Guru/PodcastGuru02.jpeg" alt="Screenshot 1" width="300">
 
